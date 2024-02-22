@@ -36,6 +36,10 @@ Interface de forma clara e intuitiva.
 Layout Tailwind CSS para garantir uma boa experiência em dispositivos.
 
 
+![Captura de tela 2024-02-22 151547](https://github.com/felicio-almd/registration-page/assets/115444550/320ae53b-30ee-4b04-a877-023fdab2e493)
+![Captura de tela 2024-02-22 151552](https://github.com/felicio-almd/registration-page/assets/115444550/f18cb5f6-3671-45a1-8f77-5b45dd43a7b8)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
