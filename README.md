@@ -7,12 +7,11 @@
 <h1 align="center">Next Crud</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/felicio-almd/next-crud?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/felicio-almd/registration-page?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{felicio-almd}/next-crud?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/felicio-almd/registration-page?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felicio-almd/next-crud?color=56BEB8">
-
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felicio-almd/registration-page?color=56BEB8">
 </p>
 
 <p align="center">
